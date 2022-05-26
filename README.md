@@ -1,2 +1,2 @@
 # portafolio
-Aquí esta mi portafolio
+todo acerca de mi portafolio
