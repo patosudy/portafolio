@@ -1,0 +1,106 @@
+body{
+	Font-family: 'Roboto', sans-serif;
+	background-color: #000000;
+}
+.navbar-brand img{
+	background-image: url("../images/pantallazofamilia.png");
+	border-radius: 50px;
+}
+
+.card{
+	margin: 0 auto;
+	border-radius: 50px;
+}
+
+.text-secondary{
+	font-weight: 80;
+	color: #000000;
+	margin: 0;
+}
+
+.h5{
+	color: black;
+}
+
+.text-secondary-2 {
+	font-size: 13px;
+	color: #000000;
+	font-weight: 80;
+}
+
+.text-success{
+	font-size: 20px;
+	font-weight: 62px;
+}
+
+.icons-section {
+	background-color: black;
+	text-align: center;
+	padding: 50px;
+	color: aliceblue;
+}
+
+.icons-section h2 {
+	font-weight: 500;
+	font-size: 40px;
+	margin-bottom: 1em;
+}
+
+.icons {
+	display: inline-block;
+	width: 30%;
+}
+.desc-section {
+	background-color: #000000;
+	margin: 0;
+	padding: 100px 0;
+}
+
+.container {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.desc-text {
+	width: 60%;
+	display: inline-block;
+	padding-right: 20px;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.desc-img {
+	display: inline-block;
+	width: 50%;	
+	vertical-align: middle;
+}
+
+.desc-img img {
+	width: 100%;
+	border-radius: 50px;
+}
+.icons p {
+	font-size: 25px;
+	font-weight: 300;
+}
+form{
+	margin: 0 auto;
+}
+
+footer{
+	text-align: center;
+}
+
+footer img{
+	width: 700px;
+	padding-top: 20px;
+	border-radius: 50px;
+}
+
+footer h2{
+	color:#ffffff;
+	font-weight:100;
+}
+
+@media (max-width: 992px) {
+}
